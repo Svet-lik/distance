@@ -72,14 +72,6 @@ body {
     margin-left: 12px;
 }
 
-
-/*.navigation-link:last-child {
-    content: "";
-    width: 1px;
-    height: 16px;
-    background: #003a8c;
-}*/
-
 .user {
     display: flex;
     align-items: center;
